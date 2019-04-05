@@ -25,14 +25,14 @@
 
 类名称 对象名称 =  new 类名称( )
 
-![](/Users/mengxiangdong/Desktop/MarkDown/JAVA/images/直接实例化类的过程.png)
+![](./images/直接实例化类的过程.png)
 
 ### 4.2 分布完成
 
 - 声明对象：类名称 对象名称 =null；
 - 实例化对象：对象名称 = new 类名()
 
-![](/Users/mengxiangdong/Desktop/MarkDown/JAVA/images/先声明后实例化类的过程.png)
+![](./images/先声明后实例化类的过程.png)
 
 因为基本数据类型和引用数据类型的主要区别就在于内存的开辟和使用，所以关键字new的作用就是开辟内存。
 
