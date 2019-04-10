@@ -16,7 +16,7 @@
 
 ## 数据类型
 
-![](/Users/mengxiangdong/Desktop/MarkDown/JAVA/images/Java的数据类型.png)
+![](./images/Java的数据类型.png)
 
 - 基本数据类型不涉及到内存分配问题，共八种
 - 引用数据类型需要由开发者为其分配空间，共三种

@@ -77,7 +77,7 @@ public class Hello{
 - 引用类似于c++中的指针概念
 - 所有引用分析中，最重要的还在于关键字“new”
 - 使用关键字“new”实例化了两个对象，那么一个对象将占用一个堆内存，不会相互影响
-- ![](/Users/mengxiangdong/Desktop/MarkDown/JAVA/images/实例化两个对象的内存分配.png)
+- ![](./images/实例化两个对象的内存分配.png)
 
 - 对象的引用传递
 
@@ -111,11 +111,11 @@ public class Hello{
 
 - 也就是说上面的引用就是讲bkA的地址给了bkB，bkB能够修改bkA的内容
 
-- ![](/Users/mengxiangdong/Desktop/MarkDown/JAVA/images/对象的引用传递.png)
+- ![](./images/对象的引用传递.png)
 
 - 一块堆内存能够被多个栈内存所指向，但是一块栈内存智能保存 一块堆内存的地址信息
 - 先后声明并实例化两个对象后，再将其中一个引用给另外一个的内存分配：
-- ![](/Users/mengxiangdong/Desktop/MarkDown/JAVA/images/先后声明并实例化两个类在进行引用的传递.png)
+- ![](./images/先后声明并实例化两个类在进行引用的传递.png)
 
 - 没有被栈内存指向的堆内存就被称为垃圾，垃圾会不定期的被垃圾收集器（GC）回收，然后释放
 

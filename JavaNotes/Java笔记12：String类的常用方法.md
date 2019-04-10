@@ -191,18 +191,25 @@ public class Hello{
 ```
 // 判断指定内容是否存在,返回布尔，jdk1.5之后才有
 public boolean contains(String s)
+
 // 由前向后查找指定位置，返回整型，表示存在的具体索引位置（第一个字符位置），jdk1.5之前就有，没找到就返回-1
 public int indexOf(String str)
+
 // 从指定位置查找某字符串的指定位置，找到就返回第一个字符的位置，找不到就返回-1，这是indexOf的方法重载
 public int indexOf(String str,int fromIndex)
+
 // 由后向前查找字符串指定位置，找不到返回-1
 public int lastIndexOf(String str)
+
 // 从指定位置由后向前查找某子字符串的具体位置，找不到返回-1
 public int lastIndexOf(String str,int fromIndex)
+
 // 判断是否由指定的字符串开头
 public boolean startsWith(String prefix)
+
 //从具体位置开始判断某字符串是否以某子字符串开始
 public boolean startsWith(String prefix，int toffset)
+
 // 判断是否由指定的字符串结尾
 public boolean endsWith(String suffix)
 ```
@@ -392,7 +399,7 @@ Java的一大遗憾就是缺少一个首字母大写的功能，自己实现如�
 public class Hello{
 	public static void main(String[] args){
 		String str1 = "hello";
-		System.out.println(initCamp(str1));
+		System.out.println(initCamp(str1)); // 输出Hello
 	}
 
 	public static String initCamp(String str){

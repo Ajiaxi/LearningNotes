@@ -11,6 +11,6 @@
 - Java笔记08：类与对象
 - Java笔记09：深入分析类与对象
 - Java笔记10：数组的定义及使用
-- Java笔记11：String类的常用方法
-- Java笔记12：String类的特点
+- Java笔记11：String类的特点
+- Java笔记12：String类的常用方法
 
