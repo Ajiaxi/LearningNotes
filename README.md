@@ -13,4 +13,12 @@
 - Java笔记10：数组的定义及使用
 - Java笔记11：String类的特点
 - Java笔记12：String类的常用方法
+- Java笔记13：this关键字详解
+- Java笔记14：通过案例复习Java的引用传递
+- Java笔记15：数据表与Java类的映射关系
+- Java笔记16：对象比较
 
+## Data Structure Notes目录
+
+- 数据结构笔记01：课程笔记大纲
+- 数据结构笔记02：数据结构概述
