@@ -144,7 +144,7 @@ public class Hello{
 
 比较字符串内容用equals()，但是字符串比较函数不止这一个:
 
-- ```
+- ```java
   // 字符串内容的比较，返回布尔类型，特点是区分大小写
   public boolean equals(String anObject)
   //不区分大小写对字符串内容进行比较
@@ -188,7 +188,7 @@ public class Hello{
 
 从某个字符串中查找某个子字符串是否存在
 
-```
+```java
 // 判断指定内容是否存在,返回布尔，jdk1.5之后才有
 public boolean contains(String s)
 
