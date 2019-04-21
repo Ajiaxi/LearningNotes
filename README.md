@@ -3,8 +3,8 @@
 
 此Java笔记系列是笔者向东在学习李兴华老师[【Java8编程开发入门】](<https://study.163.com/course/courseMain.htm?courseId=1455026>)这门课的学习记录，该课程可在网易云课堂免费学习。点击前面括号中课程名字可以直达课程页面。如果能帮助到你，欢迎给个Star！
 
-- [[Java基础笔记01：Java简介.md](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记01：Java简介)](https://github.com/mxdshr/LearningNotes/blob/master/Java%20Notes/Java%E7%AC%94%E8%AE%B001%EF%BC%9AJava%E7%AE%80%E4%BB%8B.md)
-- [[Java基础笔记02：第一个程序](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记02：第一个程序.md)](https://github.com/mxdshr/LearningNotes/blob/master/Java%20Notes/Java%E7%AC%94%E8%AE%B002%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F.md)
+- [Java基础笔记01：Java简介.md](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记01：Java简介)
+- [Java基础笔记02：第一个程序](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记02：第一个程序.md)
 - [Java笔记03：Java基础知识.md](https://github.com/mxdshr/LearningNotes/blob/master/Java%20Notes/Java%E7%AC%94%E8%AE%B003%EF%BC%9AJava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)[Java基础笔记03：数据类型](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记03：数据类型.md)
 - [[Java基础笔记04：Mac下配置Java的环境变量](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记04：Mac下配置Java的环境变量.md)](https://github.com/mxdshr/LearningNotes/blob/master/Java%20Notes/Java%E7%AC%94%E8%AE%B004%EF%BC%9AMac%E4%B8%8B%E9%85%8D%E7%BD%AEJava%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.md)
 - [[Java基础笔记05：运算符](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记05：运算符.md)](https://github.com/mxdshr/LearningNotes/blob/master/Java%20Notes/Java%E7%AC%94%E8%AE%B005%EF%BC%9A%E8%BF%90%E7%AE%97%E7%AC%A6.md)
@@ -24,8 +24,6 @@
 - [Java基础笔记19：内部类](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记19：内部类.md)
 - [Java基础笔记20：链表的定义与使用](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记20：链表的定义与使用.md)
 - [Java基础笔记21：类的继承性](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记21：类的继承性.md)
-- [Java基础笔记22：类的覆写](https://github.com/mxdshr/LearningNotes/blob/master/Java Notes/Java基础笔记22：类的覆写.md)
-- 
 
 ## Data Structure Notes 目录
 
