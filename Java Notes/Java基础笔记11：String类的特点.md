@@ -13,8 +13,6 @@ public class Hello{
 }
  ```
 
-
-
 以上是字符串对象的直接赋值，该代码并没有使用关键字new 进行，String类中其实也定义了一个构造方法
 
 - 构造方法：public String(String str)，在构造里面依然要接收一个本类对象
